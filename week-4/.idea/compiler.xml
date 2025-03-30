@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Kotlin_for_Java_Developers._Week_4.Board-Task" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_4.Board-Task.main" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_4.Board-Task.test" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_4.Rationals-Task" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_4.Rationals-Task.main" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_4.Rationals-Task.test" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_4.util" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_4.util.main" target="1.8" />
+      <module name="Kotlin_for_Java_Developers._Week_4.util.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
